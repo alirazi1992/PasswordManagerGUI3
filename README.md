@@ -49,3 +49,21 @@ PasswordManagerGUI3/
 
 ---
 
+## 📚 Learning Goals
+
+- Practice building a WinForms desktop application from scratch
+
+- Learn SQLite integration in C# using Microsoft.Data.Sqlite
+
+- Understand CRUD operations (Create, Read, Update, Delete) with parameterized queries
+
+- Implement search and filtering in a DataGridView
+
+- Gain hands-on experience with file handling (CSV export/import)
+
+- Explore basic AES encryption/decryption for password storage
+
+- Debug and fix platform-specific build issues (x64 vs Any CPU)
+
+- Strengthen project-based C# learning and prepare for more advanced features (Master Password, PBKDF2, IVs)
+
